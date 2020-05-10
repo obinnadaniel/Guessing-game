@@ -1,0 +1,6 @@
+c:\users\obinna daniel\documents\visual studio 2017\Projects\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+c:\users\obinna daniel\documents\visual studio 2017\Projects\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+c:\users\obinna daniel\documents\visual studio 2017\Projects\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+c:\users\obinna daniel\documents\visual studio 2017\Projects\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+c:\users\obinna daniel\documents\visual studio 2017\Projects\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
